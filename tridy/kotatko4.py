@@ -1,6 +1,6 @@
-# Abychom snadno rozeznali nekolik mnoukajicich kotatek, kazde kotatko nyni mnouka svym jmenem
-# V metode zamnoukej() nyni muzeme pristupovat k atributum instance pres self. self.jmeno pristupuje k atributu jmeno
-# aktualni instance.
+# Abychom snadno rozeznali nekolik mnoukajicich kotatek, kazde kotatko nyni mnouka svym jmenem.
+# V metode zamnoukej() nyni muzeme pristupovat k atributum instance pres self.
+# self.jmeno pristupuje k atributu jmeno aktualni instance.
 
 
 class Kotatko:

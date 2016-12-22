@@ -1,5 +1,5 @@
-# Trida kotatko zustava stejna.
-# Kdyz zkusime vypsat instanci tridy Kotatko pomoci print do konzole, vystup neni zcela idealni...
+# Trida Kotatko zustava stejna.
+# Kdyz zkusime vypsat instanci tridy Kotatko pomoci print() do konzole, vystup neni zcela idealni...
 
 class Kotatko:
     def __init__(self, jmeno):
