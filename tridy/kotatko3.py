@@ -21,6 +21,6 @@ kotatko = Kotatko()
 kotatko.jmeno = 'Micka'
 print('Jmeno prvniho kotatka je {}'.format(kotatko.jmeno))
 
-jineKotatko = Kotatko()
-jineKotatko.jmeno = 'Mourek'
-print('Jmeno druheho kotatka je {}'.format(jineKotatko.jmeno))
+jine_kotatko = Kotatko()
+jine_kotatko.jmeno = 'Mourek'
+print('Jmeno druheho kotatka je {}'.format(jine_kotatko.jmeno))

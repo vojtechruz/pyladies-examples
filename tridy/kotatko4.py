@@ -13,6 +13,6 @@ kotatko.jmeno = 'Micka'
 kotatko.zamnoukej('Mnau?')
 kotatko.zamnoukej('Mnau!!!!')
 
-jineKotatko = Kotatko()
-jineKotatko.jmeno = 'Mourek'
-jineKotatko.zamnoukej('Mnaaaaaaau!')
+jine_kotatko = Kotatko()
+jine_kotatko.jmeno = 'Mourek'
+jine_kotatko.zamnoukej('Mnaaaaaaau!')

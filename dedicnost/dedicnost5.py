@@ -40,9 +40,9 @@ kotatko = Kotatko('Micka')
 kotatko.zamnoukej('Ta vaza spadla sama!')
 kotatko.snez('Mys')
 
-mlsneKotatko = MlsneKotatko('Mlsoun')
-mlsneKotatko.zamnoukej('Uz jsem dlouho nejedl.')
-mlsneKotatko.snez('Mys')
+mlsne_kotatko = MlsneKotatko('Mlsoun')
+mlsne_kotatko.zamnoukej('Uz jsem dlouho nejedl.')
+mlsne_kotatko.snez('Mys')
 
 stenatko = Stenatko('Rex')
 stenatko.zastekej('Ta louzicka uz tu byla!')
